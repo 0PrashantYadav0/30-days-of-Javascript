@@ -1,4 +1,4 @@
-# Day 4: Report
+# Day 6: Report
 
 ## Task
 <img src="./day-06.png"/>
