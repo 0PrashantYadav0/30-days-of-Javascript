@@ -19,13 +19,13 @@ function printArr(arr){
 
 function funInArray(){
   const arr = [1, 2, 3, 4, 5, 6, 7, 8, 9];
-  arr.push(10);
+  arr.push(10); // output : [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
   printArr(arr)
-  arr.pop();
+  arr.pop(); // output : [1, 2, 3, 4, 5, 6, 7, 8, 9]
   printArr(arr);
-  arr.shift();
+  arr.shift(); // output : [2, 3, 4, 5, 6, 7, 8, 9]
   printArr(arr);
-  arr.unshift(10);
+  arr.unshift(10); // output : [10, 2, 3, 4, 5, 6, 7, 8, 9]
   printArr(arr);
 }
 
