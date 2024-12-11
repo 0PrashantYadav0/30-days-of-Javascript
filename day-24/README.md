@@ -1,5 +1,8 @@
 # Weather App
 
+## Task
+<img src="./day-24.png"/>
+
 ## Feature Request:
 #### 1. Weather Data Fetching Script: Write a script that fetches current weather data from a public API and displays the temperature, weather condition, and city name on the web page.
 #### 2. Search Functionality Script: Create a script that allows users to search for weather information by city name and displays the results.

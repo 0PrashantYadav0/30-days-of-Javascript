@@ -1,6 +1,9 @@
 
 # Movie Reel Search Application
 
+## Task
+<img src="./day-25.png"/>
+
 This project allows users to search for movies and view detailed information about them by making API calls to the [OMDb API](http://www.omdbapi.com/). Users can search by entering a movie title, and the app displays a list of related movies. Clicking on any movie provides additional details.
 
 ## Features

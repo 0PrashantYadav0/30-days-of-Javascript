@@ -1,7 +1,7 @@
-# Day 22
+# Day 23
 
 ## Task
-<img src="./day-22.png"/>
+<img src="./day-23.png"/>
 
 ## Code 
 [Click Here](./index.js)
